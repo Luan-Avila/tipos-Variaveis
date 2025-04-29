@@ -1,18 +1,28 @@
-## Getting Started
+# Primeiro projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é o meu Primeiro Projeto de desenvolvimento! 🎉 Aqui, vou aprender e aplicar conceitos essenciais de programação, boas práticas de desenvolvimento e integração com ferramentas modernas.
 
-## Folder Structure
+🚀 Começando
+Essas instruções vão ajudá-lo a executar o projeto localmente para fins de desenvolvimento e testes.
 
-The workspace contains two folders by default, where:
+📦 Pré-requisitos
+Node.js (versão 14 ou superior)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+npm ou yarn
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Editor de código (VS Code recomendado)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🔧 Instalação
+Clone o repositório:
 
-## Dependency Management
+bash
+Copiar
+Editar
+git clone https://github.com/Luan-Avila/Dio-Teste-Repositorio.git
+Navegue até o diretório do projeto:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+bash
+Copiar
+Editar
+cd primeiro-projeto
+Instale as dependências:
